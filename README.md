@@ -35,7 +35,7 @@ Make sure you have **Node.js** and **npm** installed on your machine.
   │   └── list.js                # Product List Data (if applicable)
   ├── index.js                   # Entry Point
   ├── package.json               # Project dependencies
-
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
