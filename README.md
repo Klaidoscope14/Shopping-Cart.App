@@ -18,7 +18,6 @@ Make sure you have **Node.js** and **npm** installed on your machine.
    ```bash
    git clone https://github.com/your-repo/ecommerce-cart.git
 
-
 src/
   ├── components/
   │   ├── Card.jsx               # Product Card Component
