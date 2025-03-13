@@ -1,4 +1,4 @@
-# E-commerce Shopping Cart App
+# Cartify
 
 This project is a simple and interactive **E-commerce Shopping Cart Application** built with **React**. It allows users to browse products, add items to a cart, view the total expense, and manage item quantities. It features product display, cart management, and search functionality.
 
